@@ -72,3 +72,5 @@ LIMIT 1;
 March generated the highest revenue.
 
 Product 104 is the best selling product.
+##DB Fiddle Link
+https://www.db-fiddle.com/f/kTgCrJhez5G4B6TJvoJMcB/0
